@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Dependencies (in case a project here uses npm, e.g. temporary Playwright installs)
+node_modules/
+package-lock.json
+package.json
+
+# Secrets / local env files
+.env
+.env.local
+
+# Claude Code local settings (personal, not shared)
+.claude/settings.local.json
