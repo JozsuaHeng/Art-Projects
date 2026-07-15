@@ -247,7 +247,7 @@ merged in. Treat any oddities you spot as a data-authoring gap to fix in
 
 Static hosting only — GitHub Pages, Netlify, or Vercel (static mode). No
 environment variables or API keys required. Lives in the shared
-`Art-Projects` repo (`github.com/JozsuaHeng/art-projects`) alongside future
+`Art-Projects` repo (`github.com/JozsuaHeng/Art-Projects`) alongside future
 art-related projects — see `Art-Projects/CLAUDE.md` for that convention.
 Uses the shared `.gitignore` and `.nojekyll` at the `Art-Projects/` repo
 root rather than duplicating them here.

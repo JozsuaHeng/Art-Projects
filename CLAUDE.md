@@ -7,7 +7,7 @@ as subfolders — a dedicated collection, distinct from the general-purpose
 `ai-slop` (throwaway/satirical projects) and from fully standalone projects
 like `visa-map/` or `cost-of-living-map/` (each with its own git history
 and remote). Everything in here shares one repo, pushed to
-`github.com/JozsuaHeng/art-projects`.
+`github.com/JozsuaHeng/Art-Projects`.
 
 - Each project still gets its **own subfolder** (e.g. `world-art-galleries/`),
   fully self-contained with its own `CLAUDE.md` describing that specific
