@@ -2849,4 +2849,200 @@ export const ARTWORKS = [
       "Part of Koons's 'Celebration' series and, per the artist, his most technically complex work to date, it exists in five unique versions — one of which is Guggenheim Bilbao's own, originally sited on the outdoor terrace before moving indoors to Gallery 303 for the museum's 25th-anniversary rehang; a different edition sold at auction in 2012 for roughly $33.6 million.",
     wikiTitle: "Tulips (Koons)",
   },
+
+  // ---- Hirshhorn Museum and Sculpture Garden (batch 2) ----
+  {
+    id: "burghers-of-calais",
+    galleryId: "hirshhorn",
+    title: "The Burghers of Calais",
+    artist: "Auguste Rodin",
+    year: 1889,
+    yearDisplay: "1884–1889 (this cast 1943)",
+    movements: ["realism"],
+    category: "sculpture",
+    medium: "Bronze",
+    description:
+      "Six life-size bronze figures depict the burghers of Calais, ropes around their necks, walking out to surrender themselves to English forces during the Hundred Years' War — their faces and postures showing anguish, resignation, and quiet heroism rather than triumphant idealism.",
+    history:
+      "Rodin broke with convention by depicting all six volunteers rather than a single hero, drawing controversy from the Calais committee that commissioned it in 1884. The Hirshhorn's bronze is one of only twelve casts authorized under French law, cast in 1943 and installed in the museum's sculpture garden after Joseph Hirshhorn's collection formed the museum's founding gift.",
+    wikiTitle: "The Burghers of Calais",
+  },
+  {
+    id: "cubi-xii",
+    galleryId: "hirshhorn",
+    title: "Cubi XII",
+    artist: "David Smith",
+    year: 1963,
+    yearDisplay: "1963",
+    movements: ["abstract-expressionism"],
+    category: "sculpture",
+    medium: "Stainless steel",
+    description:
+      "A tall abstract sculpture of geometric cubes and rectangular boxes welded together at their corners, balanced atop a narrow post so the forms seem to hover; Smith's signature swirling grinder marks on the polished surface shift with the light.",
+    history:
+      "Part of Smith's late Cubi series (1961–65), made in the final years before his death in a 1965 car accident. The Hirshhorn purchased the piece from Smith's estate in 1968 through the Marlborough-Gerson Gallery.",
+    wikiTitle: "Cubi XII",
+  },
+  {
+    id: "sky-hooks-calder",
+    galleryId: "hirshhorn",
+    title: "Sky Hooks",
+    artist: "Alexander Calder",
+    year: 1962,
+    yearDisplay: "1962",
+    movements: ["abstract-art"],
+    category: "sculpture",
+    medium: "Painted sheet steel",
+    description:
+      "A large abstract standing sculpture of curving, hook-like steel forms painted black, reaching upward and outward in the biomorphic vocabulary Calder developed for his monumental stabiles.",
+    history:
+      "Created in 1962 as Calder shifted increasing attention from his hanging mobiles toward large-scale outdoor stabiles. It has long stood in the Hirshhorn's outdoor sculpture garden, part of Joseph Hirshhorn's deep early patronage of Calder's work.",
+    wikiTitle: "Sky Hooks",
+  },
+  {
+    id: "agricola-i",
+    galleryId: "hirshhorn",
+    title: "Agricola I",
+    artist: "David Smith",
+    year: 1952,
+    yearDisplay: "1952",
+    movements: ["abstract-expressionism"],
+    category: "sculpture",
+    medium: "Steel (assembled farm implement parts)",
+    description:
+      "An abstract welded-steel figure assembled from repurposed antique farm machinery parts, its angular forms suggesting a farmer with tools in hand.",
+    history:
+      "One of the earliest works in Smith's Agricola series, begun after he found old agricultural tools on his property in Bolton Landing, New York. Joseph Hirshhorn purchased the piece in 1962 and donated it to the museum bearing his name in 1966.",
+    wikiTitle: "Agricola I",
+  },
+  {
+    id: "are-years-what-di-suvero",
+    galleryId: "hirshhorn",
+    title: "Are Years What? (for Marianne Moore)",
+    artist: "Mark di Suvero",
+    year: 1967,
+    yearDisplay: "1967",
+    movements: ["abstract-expressionism"],
+    category: "sculpture",
+    medium: "Steel I-beams",
+    description:
+      "A massive, dynamically cantilevered sculpture of nine welded red-orange steel I-beams, roughly 40 feet across, that seems to gesture and lean into open space like a piece of calligraphy in three dimensions.",
+    history:
+      "Its title references poet Marianne Moore's 'What Are Years,' reflecting di Suvero's habit of dedicating works to writers he admired. The Hirshhorn acquired the sculpture and installed it in its sculpture garden on June 13, 1999.",
+    wikiTitle: "Are Years What? (for Marianne Moore)",
+  },
+  {
+    id: "lunar-bird-miro",
+    galleryId: "hirshhorn",
+    title: "Lunar Bird",
+    artist: "Joan Miró",
+    year: 1967,
+    yearDisplay: "1945/1966–67 (modeled/enlarged and cast)",
+    movements: ["surrealism"],
+    category: "sculpture",
+    medium: "Bronze",
+    description:
+      "A monumental bronze form fusing bird and bull-like anatomy, with a crescent shape atop its head standing in for the moon — one half of a pair with Miró's companion piece 'Solar Bird.'",
+    history:
+      "Miró first modeled the figure in plaster in 1945 after returning to Spain during World War II, later enlarging it and having it cast in bronze in the mid-1960s. It has been a fixture of the Hirshhorn's sculpture garden collection.",
+    wikiTitle: "Lunar Bird",
+  },
+  {
+    id: "untitled-ellsworth-kelly-1986",
+    galleryId: "hirshhorn",
+    title: "Untitled",
+    artist: "Ellsworth Kelly",
+    year: 1986,
+    yearDisplay: "1986",
+    movements: ["minimalism"],
+    category: "sculpture",
+    medium: "Stainless steel",
+    description:
+      "A large curved stainless steel sculpture reducing form to a single simplified arcing shape, its polished surface catching and reflecting light and the surrounding garden.",
+    history:
+      "The sculpture translates the flat, hard-edged shapes of Kelly's paintings into freestanding three-dimensional form, part of his decades-long exploration of pure shape and negative space. It is installed at the Hirshhorn Museum and Sculpture Garden.",
+    wikiTitle: "Untitled (Ellsworth Kelly)",
+  },
+
+  // ---- Centre Pompidou (batch 2) ----
+  {
+    id: "sorrows-of-the-king-matisse",
+    galleryId: "pompidou",
+    title: "The Sorrows of the King",
+    artist: "Henri Matisse",
+    year: 1952,
+    yearDisplay: "1952",
+    movements: ["modernism"],
+    category: "painting",
+    medium: "Gouache-painted paper cutouts mounted on canvas",
+    description:
+      "A large, brilliantly colored composition made from cut paper shapes showing a black-clad king figure plucking a guitar-like instrument beside a dancing woman and a nude female musician, set against a golden, garden-like background.",
+    history:
+      "Made when failing health had confined Matisse largely to bed, it is widely read as his final self-portrait — the artist recast as an aging King David surrounded by music and dance. It exemplifies the paper cutout technique he pioneered in his last decade, after abandoning easel painting around 1950.",
+    wikiTitle: "The Sorrows of the King",
+  },
+  {
+    id: "new-york-city-mondrian-pompidou",
+    galleryId: "pompidou",
+    title: "New York City",
+    artist: "Piet Mondrian",
+    year: 1942,
+    yearDisplay: "1942",
+    movements: ["abstract-art", "modernism"],
+    category: "painting",
+    medium: "Oil on canvas",
+    description:
+      "A grid of intersecting red, blue, and yellow painted lines on a white ground, without Mondrian's usual black lines, evoking the energy and structure of Manhattan's street grid.",
+    history:
+      "Painted after Mondrian settled in New York City in 1940, this finished, correctly-oriented canvas became the key comparison piece in 2022 when scholars used it to prove that a closely related, unsigned companion work, 'New York City I' in Düsseldorf, had been displayed upside-down since the 1940s.",
+    wikiTitle: "New York City (painting)",
+  },
+  {
+    id: "la-coiffeuse-picasso",
+    galleryId: "pompidou",
+    title: "La Coiffeuse (The Hairdresser)",
+    artist: "Pablo Picasso",
+    year: 1911,
+    yearDisplay: "1911",
+    movements: ["cubism"],
+    category: "painting",
+    medium: "Oil on canvas",
+    description:
+      "A small, muted brown-and-grey Analytical Cubist painting fragmenting a woman seated for a haircut into overlapping geometric planes, her form barely legible amid the faceted composition.",
+    history:
+      "Stolen from a Centre Pompidou storeroom in 2001, the painting vanished for fourteen years until it turned up in 2015 inside a FedEx package shipped from Belgium to Newark, New Jersey, falsely declared as a '$37 art craft/toy.' After authentication and restoration, it was returned to the museum.",
+    wikiTitle: "La Coiffeuse",
+  },
+  {
+    id: "ant-82-blue-age-anthropometry-klein",
+    galleryId: "pompidou",
+    title: "ANT 82, Blue Age Anthropometry",
+    artist: "Yves Klein",
+    year: 1960,
+    yearDisplay: "1960",
+    movements: ["nouveau-realisme"],
+    category: "painting",
+    medium: "Pure pigment and synthetic resin on paper mounted on canvas",
+    description:
+      "Ghostly blue imprints of nude female torsos and limbs are pressed directly onto a pale ground in Klein's signature International Klein Blue pigment, arranged in a loose horizontal frieze.",
+    history:
+      "Created during Klein's notorious 1960 'Anthropometry' performances, in which nude models coated in IKB pigment pressed their bodies onto paper under the artist's direction before an audience in evening dress, accompanied by a live orchestra. The Musée National d'Art Moderne acquired the work in 1984.",
+    wikiTitle: "ANT 82, Blue Age Anthropometry",
+  },
+  {
+    id: "noire-et-blanche-man-ray",
+    galleryId: "pompidou",
+    title: "Noire et Blanche",
+    artist: "Man Ray",
+    year: 1926,
+    yearDisplay: "1926",
+    movements: ["surrealism"],
+    category: "photography",
+    medium: "Gelatin silver print",
+    description:
+      "A stark black-and-white photograph showing the face of model Kiki de Montparnasse lying on its side next to an African Baule mask she holds upright, pairing the two ovoid forms as visual echoes of each other.",
+    history:
+      "First published in French Vogue in May 1926 under the title 'Visage de nacre et masque d'ébène,' the image became one of the most reproduced photographs of the Surrealist era; the Centre Pompidou holds a period print (and glass-plate negative) in its collection, one of several prints of the image held across major museums.",
+    wikiTitle: "Noire et Blanche",
+  },
 ];
