@@ -3045,4 +3045,52 @@ export const ARTWORKS = [
       "First published in French Vogue in May 1926 under the title 'Visage de nacre et masque d'ébène,' the image became one of the most reproduced photographs of the Surrealist era; the Centre Pompidou holds a period print (and glass-plate negative) in its collection, one of several prints of the image held across major museums.",
     wikiTitle: "Noire et Blanche",
   },
+  {
+    id: "delaunay-rhythms-1934",
+    galleryId: "pompidou",
+    title: "Rhythms",
+    artist: "Robert Delaunay",
+    year: 1934,
+    yearDisplay: "1934",
+    movements: ["abstract-art", "modernism"],
+    category: "painting",
+    medium: "Oil on canvas",
+    description:
+      "A composition of concentric circles arranged along a diagonal axis, each disc bisected so that its two halves are rendered in contrasting colors, creating a pulsing, musical rhythm across the canvas.",
+    history:
+      "Painted in 1934, the work marks Delaunay's late-career return to Orphism, the abstract movement he helped found around 1912, revisiting his lifelong study of color harmony through pure circular forms rather than recognizable subjects.",
+    wikiTitle: "Rhythms (Delaunay)",
+  },
+  {
+    id: "kandinsky-auf-weiss-ii",
+    galleryId: "pompidou",
+    title: "On White II",
+    artist: "Wassily Kandinsky",
+    year: 1923,
+    yearDisplay: "1923",
+    movements: ["abstract-art", "modernism"],
+    category: "painting",
+    medium: "Oil on canvas",
+    description:
+      "Geometric shapes — circles, triangles, a checkerboard patch, and lance-like diagonal forms crossing like a St. Andrew's cross — float weightlessly against a stark white ground, anchored by a large brownish-gray trapezoid at center.",
+    history:
+      "Kandinsky developed the composition from a December 1922 ink-and-watercolor study (also now in the same collection) while teaching at the Bauhaus in Weimar, reworking ideas from a 1920 painting and absorbing the influence of Malevich's Suprematism. The finished canvas hung in Kandinsky's own Bauhaus dining room before his widow Nina donated it to the Musée National d'Art Moderne in 1976.",
+    wikiTitle: "Auf Weiss II (Sur blanc II)",
+  },
+  {
+    id: "matisse-painter-and-his-model",
+    galleryId: "pompidou",
+    title: "The Painter and His Model",
+    artist: "Henri Matisse",
+    year: 1917,
+    yearDisplay: "1916–1917",
+    movements: ["fauvism", "modernism"],
+    category: "painting",
+    medium: "Oil on canvas",
+    description:
+      "Matisse depicts himself at work in his fourth-floor studio at 19 Quai Saint-Michel, overlooking the Île de la Cité, painting his model Laurette as she poses seated in a pink armchair against a dark studio wall.",
+    history:
+      "The canvas-within-a-canvas shows Matisse actively painting his 1916 work Laurette in a Green Robe, making the piece a meditation on the act of painting itself. Matisse himself dated it 1917, though the embedded painting is signed 1916, a discrepancy art historians have long debated; the Musée National d'Art Moderne acquired it in 1945.",
+    wikiTitle: "The Painter and His Model",
+  },
 ];
