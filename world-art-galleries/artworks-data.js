@@ -2831,4 +2831,22 @@ export const ARTWORKS = [
       "Painted soon after Gleizes arrived in New York in 1915, it was the first in a series of three Brooklyn Bridge canvases and was shown at the Montross Gallery in 1916 alongside works by Marcel Duchamp and other émigré avant-gardists nicknamed \"The Four Musketeers\" by the press. Collector John Quinn bought it at that show; it sold for a mere $60 at the 1927 auction of Quinn's estate before entering the Guggenheim's founding collection.",
     wikiTitle: "Brooklyn Bridge (Gleizes)",
   },
+
+  // ---- Guggenheim Museum Bilbao (batch 2) ----
+  {
+    id: "tulips-koons-bilbao",
+    galleryId: "guggenheim-bilbao",
+    title: "Tulips",
+    artist: "Jeff Koons",
+    year: 2004,
+    yearDisplay: "1995–2004",
+    movements: ["pop-art"],
+    category: "sculpture",
+    medium: "Mirror-polished stainless steel with transparent color coating",
+    description:
+      "A bouquet of seven oversized balloon-like tulips rendered in gleaming, mirror-polished stainless steel, each bloom swelling to monumental scale as if inflated and impossibly weightless.",
+    history:
+      "Part of Koons's 'Celebration' series and, per the artist, his most technically complex work to date, it exists in five unique versions — one of which is Guggenheim Bilbao's own, originally sited on the outdoor terrace before moving indoors to Gallery 303 for the museum's 25th-anniversary rehang; a different edition sold at auction in 2012 for roughly $33.6 million.",
+    wikiTitle: "Tulips (Koons)",
+  },
 ];
